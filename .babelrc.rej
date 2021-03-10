@@ -1,0 +1,6 @@
+diff a/.babelrc b/.babelrc	(rejected hunks)
+@@ -0,0 +1,3 @@
++{
++    "plugins": ["transform-remove-strict-mode"]
++  }
+\ No newline at end of file
